@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a6dbeab688784401db99b86f837058b2
+timeCreated: 1490675248
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Modern Dot Digital-7
+  fontNames:
+  - Modern Dot Digital-7
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
